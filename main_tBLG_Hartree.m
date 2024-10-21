@@ -15,7 +15,8 @@
 %% [6] S. Carr, S. Fang et al. arXiv:1901.03420 (2019)                        %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%                                                                            %%
-%% Written by Valerio Vitale - modified by ZAHG                               %%
+%% Written by Valerio Vitale                                                  %%
+%% - modified by ZAHG                                                         %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %% INPUT VARIABLES
