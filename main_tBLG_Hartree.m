@@ -17,7 +17,7 @@
 %%                                                                            %%
 %% Written by Valerio Vitale                                                  %%
 %% - modified by Z.A.H. Goodwin                                               %%
-%% - additions by T.S. Cheung                                                 %%   
+%% - additions by C. T.S. Cheung                                              %%   
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %% INPUT VARIABLES
