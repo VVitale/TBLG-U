@@ -38,3 +38,7 @@ In publications arising from the use of this code
 
 ### Funding:
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement no. 101067977
+
+### Contributors:
+Z. A. H. Goodwin
+C. T. S. Cheung
